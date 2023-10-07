@@ -2,11 +2,11 @@
 
 Welcome to the Next.js Redux RTK-Query Material-UI Template Repository! This repository serves as a starting point for your web development projects, leveraging a powerful stack of technologies to help you build modern web applications with ease.
 
-![Next.js](https://img.shields.io/badge/Next.js-11.1.0-blue)
-![Redux](https://img.shields.io/badge/Redux-4.1.1-purple)
-![RTK-Query](https://img.shields.io/badge/RTK--Query-1.5.0-orange)
-![Material-UI](https://img.shields.io/badge/Material--UI-5.0.0--beta.2-green)
-![License](https://img.shields.io/github/license/your-username/your-project)
+![Next.js](https://img.shields.io/badge/Next.js-blue)
+![Redux](https://img.shields.io/badge/Redux-purple)
+![RTK-Query](https://img.shields.io/badge/RTK--Query-orange)
+![Material-UI](https://img.shields.io/badge/Material--UI-green)
+![License](https://img.shields.io/github/license/mit)
 
 ## Features
 
@@ -28,3 +28,19 @@ To get started with this template, follow these simple steps:
 
    ```bash
    git clone https://github.com/your-username/your-project.git
+
+
+## Directory Structure
+
+Here's a brief overview of the project's directory structure:
+
+`pages/`: Contains Next.js pages and routing.
+`components/`: Place your React components here.
+`api/`: Define your RTK-Query API slices here.
+`store/`: Redux store configuration and slices.
+`styles/`: Styling and theme configuration.
+`public/`: Static assets like images and fonts.
+
+## Contributing
+
+If you'd like to contribute to this template or have any suggestions for improvements, please open an issue or submit a pull request. We welcome contributions from the community!
